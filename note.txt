@@ -15,3 +15,9 @@ Cách search: terminal command
 
 - git add .
 => Xác nhận thêm tất cả các file vừa thêm mới hoặc thay đổi vào vùng staging
+
+- git commit -m "message"
+=> Commit những thay đổi ở phân vùng staging , đưa vào phân vùng local repository, kèm theo một message
+
+- git push
+=> Push những thay đổi đã commit từ local repository => remote respository
